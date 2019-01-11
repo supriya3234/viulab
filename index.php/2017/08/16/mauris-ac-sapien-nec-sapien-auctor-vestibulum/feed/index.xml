@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: Mauris ac sapien nec sapien auctor vestibulum</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>JH University</description>
+	<lastBuildDate>Tue, 06 Nov 2018 20:20:41 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.9</generator>
+	<item>
+		<title>By: Mike</title>
+		<link>./../index.html#comment-4</link>
+		<dc:creator><![CDATA[Mike]]></dc:creator>
+		<pubDate>Wed, 16 Aug 2017 12:05:07 +0000</pubDate>
+		<guid isPermaLink="false">http://rushmore.wpcolorlab.com/?p=1615#comment-4</guid>
+		<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec a feugiat ante]]></description>
+		<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec a feugiat ante</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: John</title>
+		<link>./../index.html#comment-3</link>
+		<dc:creator><![CDATA[John]]></dc:creator>
+		<pubDate>Wed, 16 Aug 2017 12:04:35 +0000</pubDate>
+		<guid isPermaLink="false">http://rushmore.wpcolorlab.com/?p=1615#comment-3</guid>
+		<description><![CDATA[Quisque porttitor augue tellus, nec molestie justo volutpat nec. Aenean sed massa ac nisl pellentesque interdum. Sed congue erat in est tempor laoreet at et lacus. Ut convallis ac lacus nec consectetur]]></description>
+		<content:encoded><![CDATA[<p>Quisque porttitor augue tellus, nec molestie justo volutpat nec. Aenean sed massa ac nisl pellentesque interdum. Sed congue erat in est tempor laoreet at et lacus. Ut convallis ac lacus nec consectetur</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: utpol</title>
+		<link>./../index.html#comment-2</link>
+		<dc:creator><![CDATA[utpol]]></dc:creator>
+		<pubDate>Wed, 16 Aug 2017 12:04:00 +0000</pubDate>
+		<guid isPermaLink="false">http://rushmore.wpcolorlab.com/?p=1615#comment-2</guid>
+		<description><![CDATA[Quisque porttitor augue tellus, nec molestie justo volutpat nec. Aenean sed massa ac nisl pellentesque interdum. Sed congue erat in est tempor laoreet at et lacus. Ut convallis ac lacus nec consectetur]]></description>
+		<content:encoded><![CDATA[<p>Quisque porttitor augue tellus, nec molestie justo volutpat nec. Aenean sed massa ac nisl pellentesque interdum. Sed congue erat in est tempor laoreet at et lacus. Ut convallis ac lacus nec consectetur</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
