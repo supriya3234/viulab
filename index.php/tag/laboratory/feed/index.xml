@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>laboratory &#8211; Computer Vision Lab</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../../index.html</link>
+	<description>JH University</description>
+	<lastBuildDate>Thu, 10 Jan 2019 18:53:48 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.9</generator>
+	<item>
+		<title>Praesent bibendum eros non elit tristique, sit amet imperdiet</title>
+		<link>./../../../2017/04/16/praesent-bibendum-eros-non-elit-tristique-sit-amet-imperdiet/index.html</link>
+		<comments>./../../../2017/04/16/praesent-bibendum-eros-non-elit-tristique-sit-amet-imperdiet/index.html#respond</comments>
+		<pubDate>Sun, 16 Apr 2017 12:01:52 +0000</pubDate>
+		<dc:creator><![CDATA[user]]></dc:creator>
+				<category><![CDATA[antiquarianism]]></category>
+		<category><![CDATA[arrangement]]></category>
+		<category><![CDATA[academic]]></category>
+		<category><![CDATA[book]]></category>
+		<category><![CDATA[laboratory]]></category>
+		<category><![CDATA[research]]></category>
+		<category><![CDATA[Researcher]]></category>
+
+		<guid isPermaLink="false">http://rushmore.wpcolorlab.com/?p=1611</guid>
+		<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. ]]></description>
+				<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum .Lorem ipsum dolor sit amet, consectetur.</p>
+<p>Adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. </p>
+<div class="embed-responsive embed-responsive-16by9 blog-post-video"><iframe class="embed-responsive-item" src="https://player.vimeo.com/video/22428395" width="300" height="150" allowfullscreen="allowfullscreen"></iframe></div>
+<p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborumLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+<blockquote><p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet</p></blockquote>
+<p>Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../../2017/04/16/praesent-bibendum-eros-non-elit-tristique-sit-amet-imperdiet/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
